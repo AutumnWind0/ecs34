@@ -12,10 +12,6 @@ I have finish all of the codes without solving some bugs.
 The project fails to function properly in ...
 Running DSVReader in makefile.
 
-## Code References
-* [Different ways to initialize variables](https://stackoverflow.com/questions/22543875/different-ways-to-initialize-variables)
-* [Some other link](https://stackoverflow.com)
-
 ## Generative AI Use
 No
 
